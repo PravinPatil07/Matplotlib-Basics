@@ -17,7 +17,7 @@ Matplotlib is a powerful Python library used for creating **static, animated, an
 To install Matplotlib, use the following command:  
 ```bash
 pip install matplotlib
-
+```
 ## Examples  
 
 ### Example 1: Line Plot  
