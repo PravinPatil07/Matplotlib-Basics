@@ -84,6 +84,4 @@ plt.show()
 
 ## Conclusion  
 Matplotlib is a **versatile and widely used** visualization library in Python. It provides essential tools for **data representation** and is useful in various fields, including **data science, machine learning, and engineering**.
-```
 
-This Markdown version is fully formatted and ready for use in documentation, GitHub README, or any other Markdown-supported platform. 🚀 Let me know if you need any edits!
